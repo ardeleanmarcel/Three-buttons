@@ -1,0 +1,15 @@
+.button {
+  border: solid;
+  color: black;
+  padding: 22px 22px;
+  text-align: center;
+  display: inline-block;
+  font-size: 22px;
+  margin: 22px 22px;
+  cursor: pointer;
+  background-color: skyblue;
+}
+
+body {
+  background-color: lightgrey;
+}
